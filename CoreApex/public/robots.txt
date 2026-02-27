@@ -1,0 +1,6 @@
+# robots.txt for CORE Assessment Platform
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://coreapex.org/sitemap.xml
